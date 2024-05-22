@@ -1,6 +1,0 @@
-let cu: string[] = [];  
-let elemento: string = "penis";  
-
-salaDeAula.push(elemento);  
-
-console.log(cu);
